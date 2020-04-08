@@ -1,0 +1,39 @@
+body{
+    background-image: url("back1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div3{
+    height: 650px;
+    background-color: white;
+    width:450px;
+    margin-left:520px;
+    margin-top:60px;
+    box-shadow: 0px 8px 19px 0px rgba(0, 0, 0, 0.2);
+    border-radius:6px;
+    padding:22px 12px;
+}
+input {
+	background-color: #eee;
+	border: none;
+	padding: 12px 15px;
+	margin: 8px 0;
+  width:300px;
+  height:25px;
+  margin-bottom:5px;
+  margin-left:60px;
+}
+.btn{
+    background-color:rgb(255, 71, 71);
+    border:none;
+    padding:10px 10px;
+    color:white;
+    height:40px;
+  }
+  .btn:hover{
+    background-color:white;
+  border:1px solid rgb(255, 71, 71);
+    color:rgb(255, 71, 71);
+  }
+/* button */
